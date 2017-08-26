@@ -1,4 +1,4 @@
-### Awesome Csound raw list of Csound orchestra (orc) and score (sco) files
+### Awesome Csound raw list of Csound .orc (orchestra) and .sco (score) files
 https://csound.github.io/
 
 https://github.com/csound/manual
@@ -32,4 +32,4 @@ https://github.com/ejlilley/AbstractMusicSublime
 ### Not listed:
 - TextCsound wrapper for the Unity3d game engine
 - A simplified interface to the Leap Motion hand sensor input device
-- Emacs modules, Vim plugins Csound tools for Vim
+- Emacs modules, Vim plugins
